@@ -15,7 +15,7 @@ I have built a rough draft of an FTC (FIRST Tech Challenge) Java Autonomous OpMo
 
 5. The program uses simple trigonometry (Law of Cosines, etc.) for IK calculations (Edits will be done with more advanced trignometry if ineffective).
 
-**Key Points:**
+## **Key Features:**
 
 1. Inverse Kinematics: The calculateJointAngles method computes the angles for the shoulder and elbow joints using the law of cosines and trigonometry.
 
